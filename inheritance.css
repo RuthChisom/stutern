@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+}
+.likes{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:magenta;
+}
+.dislikes{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#div1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: crimson;
+}
+h2{
+    color: yellow;
+}
+#second-heading{
+    color: rgb(192, 65, 160);
+}
+.list{
+    font-style: italic;
+    color: aqua;
+}
+#list1{
+    font-style: oblique;
+    color: darkolivegreen;
+}
