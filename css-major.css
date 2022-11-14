@@ -1,13 +1,11 @@
-lines (29 sloc)  460 Bytes
 *{
-box-sizing: border-box;
-
+    box-sizing: border-box;
 }
 div{
     background-color: white;
     margin-left: 40px;
     margin-right: 40px;
-    border: 1px solid gray;
+    border: 2px solid gray;
     border-radius: 10px;
 }
 section{
@@ -15,17 +13,17 @@ section{
     padding: 50px;
     margin: 20px;
 }
-div h3{
+h3{
     font-size: 18px;
 }
 .section-one{
     color: green;
-    border-bottom: 1px solid rgb(139, 122, 122);
+    border-bottom: 2px solid rgb(63, 153, 180);
     
 }
 .section-two{
     color: red;
-    border-bottom: 1px solid brown;
+    border-bottom: 2px solid rgb(166, 211, 42);
 }
 .section-three{
     color: blue;    
